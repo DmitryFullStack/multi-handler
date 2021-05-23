@@ -1,0 +1,2 @@
+org.springframework.context.ApplicationContextInitializer=kirilin.dev.sparkstarter.unsafe.SparkMultiHandlerInitializer
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=kirilin.dev.sparkstarter.StarterConfiguration
